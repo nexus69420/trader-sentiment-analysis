@@ -1,4 +1,4 @@
-# trader-sentiment-analysis
+
 # 📊 Trader Behavior vs Market Sentiment Analysis
 
 ## 📌 Overview
